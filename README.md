@@ -23,7 +23,7 @@ I turn messy data and ambiguous business problems into decisions that actually m
 > NLP · ETL · AI Roadmapping · Fraud Detection
 
 - Built an ETL pipeline to scrape and score **10,000+ customer reviews**, using NLP to segment feedback themes and prioritize product enhancements
-- Authored **12/24/36-month AI integration roadmaps** across finance, legal, and healthcare product lines — mapping use cases like conversational search and compliance risk scoring to business objectives
+- Authored **12/24/36-month AI integration roadmaps** across finance, legal, and healthcare product lines, mapping use cases like conversational search and compliance risk scoring to business objectives
 - Defined requirements for a **fraud detection initiative** on K-1 filings using a knowledge-graph approach, benchmarked against legacy vendor capabilities
 
 ---
