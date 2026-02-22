@@ -2,7 +2,7 @@
 
 **Data & Business Analyst · AI Strategy · M.S. Business Analytics @ UIUC (GPA 3.85)**
 
-I turn messy data and ambiguous business problems into decisions that actually move the needle. With 3+ years across **S&P Global** and **SaaS** environments, I've built everything from SQL data pipelines and Tableau dashboards to statistical models and AI integration roadmaps — always with a clear business outcome in mind.
+I turn messy data and ambiguous business problems into decisions that actually move the needle. With 3+ years across **S&P Global** and **SaaS** environments, I've built everything from SQL data pipelines and Tableau dashboards to statistical models and AI integration roadmaps, always with a clear business outcome in mind.
 
 ---
 
@@ -46,7 +46,7 @@ I turn messy data and ambiguous business problems into decisions that actually m
 
 **S&P Global — Associate Client Support, Panjiva** *(2023–2024)*
 - Translated client inquiries into supply chain analytics reports covering supplier risk, competitor positioning, and commodity trends
-- Built Tableau dashboards tracking engagement KPIs — contributed to a **12% improvement in Net Promoter Score**
+- Built Tableau dashboards tracking engagement KPIs, contributed to a **12% improvement in Net Promoter Score**
 
 **Motive** *(2024)*
 - Built SQL dashboards tracking CLV and churn risk signals → reduced at-risk accounts **10%**, supported **18% quarterly revenue growth**
