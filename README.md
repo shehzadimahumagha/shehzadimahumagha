@@ -1,4 +1,4 @@
-# Hi, I'm Mahum 👋
+# Hi, I'm Mahum
 
 **Data & Business Analyst · AI Strategy · M.S. Business Analytics @ UIUC (GPA 3.85)**
 
@@ -17,9 +17,9 @@ I turn messy data and ambiguous business problems into decisions that actually m
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 📋 [Wolters Kluwer – AI Integration Capstone *(UIUC)*](.)
+### [Wolters Kluwer – AI Integration Capstone *(UIUC)*](.)
 > NLP · ETL · AI Roadmapping · Fraud Detection
 
 - Built an ETL pipeline to scrape and score **10,000+ customer reviews**, using NLP to segment feedback themes and prioritize product enhancements
@@ -28,7 +28,7 @@ I turn messy data and ambiguous business problems into decisions that actually m
 
 ---
 
-### 🏠 [Cook County Residential Property Valuation](.)
+### [Cook County Residential Property Valuation](.)
 > Python · Regression · Machine Learning · Policy
 
 - Developed and validated **predictive valuation models** for the Cook County Assessor's Office using Forward Stepwise Regression
@@ -37,7 +37,7 @@ I turn messy data and ambiguous business problems into decisions that actually m
 
 ---
 
-## 💼 Professional Highlights
+## Professional Highlights
 
 **S&P Global — Data Analyst, Data Operations** *(2021–2023)*
 - Designed SQL JOIN workflows to consolidate M&A data from **15+ government and proprietary sources** into a unified repo serving 200+ internal users
@@ -54,7 +54,7 @@ I turn messy data and ambiguous business problems into decisions that actually m
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 SQL · Python · Tableau · Power BI · Excel
@@ -65,7 +65,7 @@ Agile · Scrum · Design Thinking
 
 ---
 
-## 📚 Currently
+## Currently
 
 - Finishing my **M.S. in Business Analytics** at UIUC Gies (May 2026)
 - Deepening work in AI strategy, LLM applications for enterprise, and decision intelligence
@@ -73,7 +73,7 @@ Agile · Scrum · Design Thinking
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahumagha-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mahumagha)
 [![Email](https://img.shields.io/badge/Email-smagha2@illinois.edu-EA4335?style=flat&logo=gmail)](mailto:smagha2@illinois.edu)
