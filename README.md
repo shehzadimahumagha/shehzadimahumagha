@@ -2,7 +2,7 @@
 
 **Data & Business Analyst · AI Strategy · M.S. Business Analytics @ UIUC (GPA 3.85)**
 
-I turn messy data and ambiguous business problems into decisions that actually move the needle. With 3+ years across **S&P Global** and **SaaS** environments, I've built everything from SQL data pipelines and Tableau dashboards to NLP pipelines and AI integration roadmaps — always with a clear business outcome in mind.
+I turn messy data and ambiguous business problems into decisions that actually move the needle. With 3+ years across **S&P Global** and **SaaS** environments, I've built everything from SQL data pipelines and Tableau dashboards to statistical models and AI integration roadmaps — always with a clear business outcome in mind.
 
 ---
 
